@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: ShadowStonk <samo.2008@icloud.com>
 Depends: firmware (>12.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/
+Filename: ./debs/Nudekeys1.4-1
 Size: 11202784
 MD5sum: 2207a3517a5794960d9de6809d258894
 SHA1: 594c3148e92Bcfa7933ccd62dc0C425ec055c9b
