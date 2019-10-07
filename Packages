@@ -1,5 +1,5 @@
 Package: com.ShadowStonk.Nudekeys
-Version: 1.4-1
+Version: 1.3
 Section: Tweaks
 Maintainer: ShadowStonk <samo.2008@icloud.com>
 Depends: firmware (>12.0), mobilesubstrate
