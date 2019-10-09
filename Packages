@@ -16,6 +16,7 @@ Depiction: https://shadowstonk1.github.io/repo/depictions/?p=
 Package: com.ShadowStonk.Nudekeys
 Name: SnowBoard all extensions
 Version: 1
+Filename: ./debs/com.
 Section: Addons
 Architecture: iphoneos-arm
 Depends: com.spark.snowboard, com.sparkdev.snowboardapplication, com.sparkdev.snowboard.dock, com.sparkdev.snowboard.fonts, com.sparkdev.snowboard.effects, com.sparkdev.snowboard.masks, com.sparkdev.snowboard.labels, com.sparkdev.snowboard.pagedots, com.sparkdev.snowboard.presetextension, com.sparkdev.snowboard.procedualwallpapers, com.sparkdev.snowboard.respringextension, com.sparkdev.snowboard.settingsicons, com.sparkdev.snowboard.statusbar
