@@ -13,10 +13,10 @@ Name: NudeKeys (iOS 12)
 Author: ShadowStonk <samo.2008@icloud.com>
 Depiction: https://shadowstonk1.github.io/repo/depictions/?p=
 
-Package: com.ShadowStonk.Nudekeys
+Package: com.ShadowStonk.SnowBoardEXT
 Name: SnowBoard all extensions
-Version: 1
-Filename: ./debs/com.
+Version: 1.1
+Filename: ./debs/SnowBoardEXT.deb
 Section: Addons
 Architecture: iphoneos-arm
 Depends: com.spark.snowboard, com.sparkdev.snowboardapplication, com.sparkdev.snowboard.dock, com.sparkdev.snowboard.fonts, com.sparkdev.snowboard.effects, com.sparkdev.snowboard.masks, com.sparkdev.snowboard.labels, com.sparkdev.snowboard.pagedots, com.sparkdev.snowboard.presetextension, com.sparkdev.snowboard.procedualwallpapers, com.sparkdev.snowboard.respringextension, com.sparkdev.snowboard.settingsicons, com.sparkdev.snowboard.statusbar
