@@ -22,8 +22,8 @@ Architecture: iphoneos-arm
 Depends: com.spark.snowboard, com.sparkdev.snowboardapplication, com.sparkdev.snowboard.dock, com.sparkdev.snowboard.fonts, com.sparkdev.snowboard.effects, com.sparkdev.snowboard.masks, com.sparkdev.snowboard.labels, com.sparkdev.snowboard.pagedots, com.sparkdev.snowboard.presetextension, com.sparkdev.snowboard.procedualwallpapers, com.sparkdev.snowboard.respringextension, com.sparkdev.snowboard.settingsicons, com.sparkdev.snowboard.statusbar
 Conflicts: 
 Installed-Size: 768
-MD5sum: b2d0ffb314af2b4579967a29c4dc7551
-SHA1: 4c1d492b8ebe087deee18d74439714296b691719
+MD5sum: 7d4de1e59d1d62306b609f4e0ab3cfd3
+SHA1: 22b546d5cb71bdb81c01d20e30af0bc10c1f1f18
 Author: ShadowStonk <samo.2008@icloud.com>
 Maintainer: ShadowStonk <samo.2008@icloud.com>
 Description: A package to install all snowboard extension packs!
