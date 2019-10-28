@@ -1,30 +1,13 @@
-Package: com.ShadowStonk.Nudekeys
-Version: 1.4-1
+Package: com.casp.inapp
+Version: 1.0~beta1a
+Architecture: iphoneos-arm
+Maintainer: Casp <email@com>
+Filename: /inAppPurchases1.0~beta1a.deb
+Size: 4080
+MD5sum: 2999bd923df35d23d06c95a64b8079d0
+SHA1: 9bc93a2057b47bb8d79d07bd2ae9cf21e2ea80d9
+SHA256: dfe0adf5983204f9f92308ccc28d5a7ea8abfbed3486aee3b17aab444d5d1b9c
 Section: Tweaks
-Maintainer: ShadowStonk <samo.2008@icloud.com>
-Depends: firmware (>12.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.ShadowStonk.Nudekeys_1.4-1_iphoneos-arm.deb
-Installed-Size: 11202784
-MD5sum: 2207a3517a5794960d9de6809d258894
-SHA1: 594c3148e92Bcfa7933ccd62dc0C425ec055c9b
-Description: NudeKeys for iOS 12! By orangebananaspy
-Name: NudeKeys (iOS 12)
-Author: ShadowStonk <samo.2008@icloud.com>
-Depiction: https://shadowstonk1.github.io/repo/depictions/?p=
-
-Package: com.ShadowStonk.SnowBoardEXT
-Name: SnowBoard all extensions
-Version: 1.1
-Filename: ./debs/SnowBoardEXT.deb
-Section: Addons
-Architecture: iphoneos-arm
-Depends: com.spark.snowboard, com.sparkdev.snowboardapplication, com.sparkdev.snowboard.dock, com.sparkdev.snowboard.fonts, com.sparkdev.snowboard.effects, com.sparkdev.snowboard.masks, com.sparkdev.snowboard.labels, com.sparkdev.snowboard.pagedots, com.sparkdev.snowboard.presetextension, com.sparkdev.snowboard.procedualwallpapers, com.sparkdev.snowboard.respringextension, com.sparkdev.snowboard.settingsicons, com.sparkdev.snowboard.statusbar
-Conflicts: 
-Installed-Size: 768
-MD5sum: 7d4de1e59d1d62306b609f4e0ab3cfd3
-SHA1: 22b546d5cb71bdb81c01d20e30af0bc10c1f1f18
-Author: ShadowStonk <samo.2008@icloud.com>
-Maintainer: ShadowStonk <samo.2008@icloud.com>
-Description: A package to install all snowboard extension packs!
-Icon: file://Icon/CydiaIcon.PNG
+Description: Free In App P
+Author: CAsp (email.com)
+Name: InApp ios11
