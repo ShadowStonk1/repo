@@ -1,13 +1,13 @@
-Package: com.casp.inapp
-Version: 1.0~beta1a
+Package: com.ShadowStonk.Nudekeys
+Version: 1.4-1
 Architecture: iphoneos-arm
-Maintainer: Casp <email@com>
-Filename: /inAppPurchases1.0~beta1a.deb
-Size: 4080
-MD5sum: 2999bd923df35d23d06c95a64b8079d0
-SHA1: 9bc93a2057b47bb8d79d07bd2ae9cf21e2ea80d9
-SHA256: dfe0adf5983204f9f92308ccc28d5a7ea8abfbed3486aee3b17aab444d5d1b9c
+Maintainer: Shadow (samo.2008@icloud.com)
+Filename: /com.ShadowStonk.Nudekeys_1.4-1_iphoneos-arm.deb
+Size: 11202786
+MD5sum: 74226c673fa6e33d356368f5d56b423d
+SHA1: 9cd6bf0a0b8af3c51ee2553e7980e3873a128df3
+SHA256: 7e196a1d185493ee981bed29da16cbbb65de0126a3190a24fae363176b8cde64
 Section: Tweaks
-Description: Free In App P
-Author: CAsp (email.com)
-Name: InApp ios11
+Description: NudeKeys
+Author: Shadow (samo.2008@icloud.com)
+Name: NudeKeys (iOS 12)

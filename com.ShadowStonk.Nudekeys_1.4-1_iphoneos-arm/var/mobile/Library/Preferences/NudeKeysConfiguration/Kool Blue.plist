@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_BackgroundType</key>
+	<integer>2</integer>
+	<key>_Colors</key>
+	<array>
+		<string>#00D6FF</string>
+		<string>#00B2CE</string>
+		<string>#0086E6</string>
+	</array>
+	<key>_ConfigName</key>
+	<string>Kool Blue</string>
+	<key>_GradientDirection</key>
+	<integer>8</integer>
+	<key>_HighlightColor</key>
+	<string>#00000000</string>
+	<key>_Image</key>
+	<string>nil</string>
+	<key>_TextColor</key>
+	<string>#FFFFFF</string>
+	<key>_VisibleKeycaps</key>
+	<false/>
+</dict>
+</plist>
