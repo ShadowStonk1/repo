@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_BackgroundType</key>
+	<integer>2</integer>
+	<key>_Colors</key>
+	<array>
+		<string>#FF0000</string>
+		<string>#FF62005C</string>
+	</array>
+	<key>_ConfigName</key>
+	<string>Flaming Red</string>
+	<key>_GradientDirection</key>
+	<integer>1</integer>
+	<key>_HighlightColor</key>
+	<string>#FF6200A7</string>
+	<key>_Image</key>
+	<string>nil</string>
+	<key>_TextColor</key>
+	<string>#FFFFFF</string>
+</dict>
+</plist>

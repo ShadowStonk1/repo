@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_BackgroundType</key>
+	<integer>2</integer>
+	<key>_Colors</key>
+	<array>
+		<string>#2AFADF</string>
+		<string>#4C83FF</string>
+	</array>
+	<key>_ConfigName</key>
+	<string>Electric Dodger</string>
+	<key>_GradientDirection</key>
+	<integer>8</integer>
+	<key>_HighlightColor</key>
+	<string>#2AFADF3C</string>
+	<key>_Image</key>
+	<string>nil</string>
+	<key>_TextColor</key>
+	<string>#FFFFFF</string>
+</dict>
+</plist>
