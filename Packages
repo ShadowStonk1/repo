@@ -11,3 +11,17 @@ Section: Tweaks
 Description: NudeKeys
 Author: Shadow (samo.2008@icloud.com)
 Name: NudeKeys (iOS 12)
+
+Package: com.ShadowStonk.SnowBoardEXT
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Shadow (samo.2008@icloud.com)
+Filename: /SnowBoardEXT.deb
+Size: 774
+MD5sum: 7d4de1e59d1d62306b609f4e0ab3cfd3
+SHA1: 22b546d5cb71bdb81c01d20e30af0bc10c1f1f18
+SHA256: 7887fae6d945af89d11408797ace6fcc1a810fb2007b921901ef4815bd92c8ff
+Section: Addons
+Description: Snow Board ALL extensions
+Author: Shadow (samo.2008@icloud.com)
+Name: Snow Board ALL extensions
