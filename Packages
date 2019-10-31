@@ -11,6 +11,7 @@ Section: Tweaks
 Description: NudeKeys
 Author: Shadow (samo.2008@icloud.com)
 Name: NudeKeys (iOS 12)
+Depiction: https://shadowstonk1.github.io/repo/Depictions/DepictionsTEST.html
 
 Package: com.ShadowStonk.SnowBoardEXT
 Version: 1.1
